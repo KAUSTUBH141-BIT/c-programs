@@ -1,2 +1,2 @@
 # c-programs
-Stusent.c
+Student.c
